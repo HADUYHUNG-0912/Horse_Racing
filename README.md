@@ -1,3 +1,3 @@
 # Horse_Racing
 # haduyhung 09122006
-namoadidaphta
+# quên save thì nhớ control +s rồi mới push lên 
